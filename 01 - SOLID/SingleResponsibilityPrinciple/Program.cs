@@ -1,4 +1,6 @@
-﻿using System;
+﻿using SingleResponsibilityPrinciple.Entities;
+using SingleResponsibilityPrinciple.Services;
+using System;
 using System.Diagnostics;
 
 namespace SingleResponsibilityPrinciple

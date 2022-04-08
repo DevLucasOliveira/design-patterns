@@ -1,6 +1,7 @@
-﻿using System.IO;
+﻿using SingleResponsibilityPrinciple.Entities;
+using System.IO;
 
-namespace SingleResponsibilityPrinciple
+namespace SingleResponsibilityPrinciple.Services
 {
     public class Persistence
     {

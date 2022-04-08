@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SingleResponsibilityPrinciple
+namespace SingleResponsibilityPrinciple.Entities
 {
     public class Journal
     {
